@@ -218,3 +218,6 @@ Feel free to contribute, and add your name to the credits, please use the develo
 ## Branch2 modification - line A
 ## Branch2 modification - line B
 ## Branch2 modification - line C
+## Branch1 modification - line 1
+## Branch1 modification - line 2
+## Branch1 modification - line 3
